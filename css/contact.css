@@ -1,0 +1,19 @@
+/* contact from */
+#contact-from .from-group{
+    margin-bottom: 30px;
+}
+#contact-from label{
+    display: block;
+    margin-bottom: 5px;
+}
+#contact-from input,
+#contact-from textarea{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+#contact-from input:focus,
+#contact-from textarea:focus{
+    outline: none;
+    border-color: #f7c08a;
+}
